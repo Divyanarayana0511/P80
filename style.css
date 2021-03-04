@@ -1,0 +1,31 @@
+body{
+    background-color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 1.5em;
+    color: white;
+
+}
+#wrapperclass{
+    display: inline-flex;
+    width: 100%;
+    height: auto;
+
+        
+}
+.column{
+    width:100%;
+    margin: 10px;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
+.row{
+    display: block;
+    margin: 10px;
+}
+.addpara{
+height:auto;
+width: fit-content;
+background-color: darksalmon;
+}
